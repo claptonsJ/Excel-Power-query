@@ -1,4 +1,4 @@
-# Excel-Power-query
+# Car-Inventory-Analysis
 
 ## Table of Contents
 - [INTRODUCTION](#INTRODUCTION)
